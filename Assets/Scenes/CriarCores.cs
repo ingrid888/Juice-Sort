@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using corcor;
 
-public class scriptstack : MonoBehaviour
+public class CriarCores : MonoBehaviour
 {
-    private Color[] cores = new[] {new Color(0, 255, 255), new Color(255, 0 , 0)};
+   
     public Stack<Color> stack;
 
     [SerializeField] private Image[] imagens;
@@ -21,8 +22,14 @@ public class scriptstack : MonoBehaviour
     {
         foreach (var imagem in imagens)
         {
-            Color cor = cores[Random.Range(0, cores.Length)];
+            int index = Random.Range(0, InformacoesGerais.cores.Count);
+            Color cor = InformacoesGerais.cores[index];
             imagem.color = cor;
+            InformacoesGerais.coresUsadas[index]++;
+            if (InformacoesGerais.coresUsadas[index] == 4)
+            {
+                InformacoesGerais.cores.RemoveAt(index);
+            }
         }
     }
 }
