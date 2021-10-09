@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace Assets.Scenes
 {
-    public class Scriptouch : MonoBehaviour
+    public class ScripTouch : MonoBehaviour
     {
 
         public class Toque : MonoBehaviour
