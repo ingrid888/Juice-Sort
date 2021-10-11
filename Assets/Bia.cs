@@ -23,5 +23,7 @@ public class Bia : MonoBehaviour
                 _botaoLigado = true;
                 break;
         }
+        
     }
+    
 }
