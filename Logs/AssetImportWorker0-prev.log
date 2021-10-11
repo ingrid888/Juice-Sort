@@ -16,11 +16,19 @@ C:/Users/User/Downloads/Martin quer um nome/Juice-Sort
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 63439
 Successfully changed project path to: C:/Users/User/Downloads/Martin quer um nome/Juice-Sort
 C:/Users/User/Downloads/Martin quer um nome/Juice-Sort
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 83.43 ms, found 3 plugins.
+=======
+62348
+Successfully changed project path to: C:/Users/User/Downloads/Martin quer um nome/Juice-Sort
+C:/Users/User/Downloads/Martin quer um nome/Juice-Sort
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 104.05 ms, found 3 plugins.
+>>>>>>> Stashed changes
 =======
 62348
 Successfully changed project path to: C:/Users/User/Downloads/Martin quer um nome/Juice-Sort
@@ -44,6 +52,7 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/Manage
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.24f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -58,6 +67,8 @@ Domain Reload Profiling:
 	ReloadAssembly (3105ms)
 		BeginReloadAssembly (123ms)
 =======
+=======
+>>>>>>> Stashed changes
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -71,12 +82,16 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (3551ms)
 		BeginReloadAssembly (133ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 		EndReloadAssembly (697ms)
 			LoadAssemblies (119ms)
@@ -86,6 +101,8 @@ Domain Reload Profiling:
 			RebuildScriptCaches (49ms)
 			SetupLoadedEditorAssemblies (295ms)
 =======
+=======
+>>>>>>> Stashed changes
 		EndReloadAssembly (915ms)
 			LoadAssemblies (129ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -93,15 +110,25 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (58ms)
 			SetupLoadedEditorAssemblies (410ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				RefreshPlugins (71ms)
 				BeforeProcessingInitializeOnLoad (2ms)
 				ProcessInitializeOnLoadAttributes (164ms)
 				ProcessInitializeOnLoadMethodAttributes (49ms)
+=======
+				RefreshPlugins (105ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (231ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+>>>>>>> Stashed changes
 =======
 				RefreshPlugins (105ms)
 				BeforeProcessingInitializeOnLoad (2ms)
@@ -115,6 +142,7 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Registered in 0.006080 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -126,6 +154,8 @@ Domain Reload Profiling:
 	ReloadAssembly (1927ms)
 		BeginReloadAssembly (260ms)
 =======
+=======
+>>>>>>> Stashed changes
 Registered in 0.008454 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -136,11 +166,15 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (2350ms)
 		BeginReloadAssembly (354ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (14ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 			CreateAndSetChildDomain (27ms)
 		EndReloadAssembly (1566ms)
@@ -170,11 +204,27 @@ Domain Reload Profiling:
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
+=======
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1879ms)
+			LoadAssemblies (212ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (652ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (92ms)
+			SetupLoadedEditorAssemblies (779ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+>>>>>>> Stashed changes
 				RefreshPlugins (79ms)
 				BeforeProcessingInitializeOnLoad (133ms)
 				ProcessInitializeOnLoadAttributes (508ms)
 				ProcessInitializeOnLoadMethodAttributes (34ms)
 				AfterProcessingInitializeOnLoad (19ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -188,6 +238,9 @@ Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
 =======
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
 Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2220 Unused Serialized files (Serialized files now loaded: 0)
@@ -200,6 +253,9 @@ Total: 4.795200 ms (FindLiveObjects: 0.231100 ms CreateObjectMapping: 0.122200 m
 =======
 Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2663.
 Total: 4.676000 ms (FindLiveObjects: 0.230700 ms CreateObjectMapping: 0.121800 ms MarkObjects: 4.233400 ms  DeleteObjects: 0.088500 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -217,6 +273,7 @@ Received Import Request.
   path: Assets/Scenes/Ingrid.unity
   artifactKey: Guid(97be229f553628e4caf1d4de4896baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Start importing Assets/Scenes/Ingrid.unity using Guid(97be229f553628e4caf1d4de4896baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3e7e6ac1036f6c616d20bafedd6a7d') in 0.032592 seconds 
 ========================================================================
 Received Import Request.
@@ -231,6 +288,8 @@ Received Import Request.
   artifactKey: Guid(09d2f69a12eb03c44a07f841b481d219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Scriptouch.cs using Guid(09d2f69a12eb03c44a07f841b481d219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0795c5bae4fd785ee8dd25128df7b7f') in 0.048440 seconds 
 =======
+=======
+>>>>>>> Stashed changes
 Start importing Assets/Scenes/Ingrid.unity using Guid(97be229f553628e4caf1d4de4896baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd236bda00bab58473984b94fccbc8c77') in 0.028790 seconds 
 ========================================================================
 Received Import Request.
@@ -334,8 +393,45 @@ Received Import Request.
   artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8abd0ff56e08d5aad655696e42e28a38') in 0.008829 seconds 
 ========================================================================
+Received Import Request.
+  Time since last request: 771.918529 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38c0ec6b4051b0431ae54f3867553eca') in 0.058284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.693161 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ad64ea2cd41a24923b88a7a033e658') in 0.007284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.867981 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca69d8fa7d2529c9e384613ddfebf12a') in 0.008308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.956581 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f28a78ee282179f3d48c72a3598622b') in 0.008430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.253379 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a87e37d98c53cf21b6f422f15cde4b') in 0.007450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.113821 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8abd0ff56e08d5aad655696e42e28a38') in 0.008829 seconds 
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Registered in 0.007822 seconds.
 Begin MonoManager ReloadAssembly
@@ -359,10 +455,23 @@ Domain Reload Profiling:
 	ReloadAssembly (1799ms)
 		BeginReloadAssembly (199ms)
 >>>>>>> Stashed changes
+=======
+Registered in 0.006164 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.799 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1799ms)
+		BeginReloadAssembly (199ms)
+>>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (14ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 			CreateAndSetChildDomain (82ms)
 		EndReloadAssembly (1809ms)
@@ -405,10 +514,33 @@ Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
 				AfterProcessingInitializeOnLoad (14ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
+=======
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (1474ms)
+			LoadAssemblies (178ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (500ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (509ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (366ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+>>>>>>> Stashed changes
 			AwakeInstancesAfterBackupRestoration (18ms)
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2214 Unused Serialized files (Serialized files now loaded: 0)
@@ -421,6 +553,9 @@ Total: 4.974500 ms (FindLiveObjects: 0.244400 ms CreateObjectMapping: 0.123600 m
 =======
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2669.
 Total: 5.086500 ms (FindLiveObjects: 0.235400 ms CreateObjectMapping: 0.123000 ms MarkObjects: 4.696500 ms  DeleteObjects: 0.029600 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -443,6 +578,7 @@ Start importing Assets/Scenes/Scriptouch.cs using Guid(09d2f69a12eb03c44a07f841b
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Registered in 0.007265 seconds.
 Begin MonoManager ReloadAssembly
@@ -490,10 +626,35 @@ Domain Reload Profiling:
 			RebuildScriptCaches (72ms)
 			SetupLoadedEditorAssemblies (477ms)
 >>>>>>> Stashed changes
+=======
+Registered in 0.006211 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.718 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1718ms)
+		BeginReloadAssembly (207ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (1407ms)
+			LoadAssemblies (168ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (484ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (477ms)
+>>>>>>> Stashed changes
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (8ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 				BeforeProcessingInitializeOnLoad (100ms)
 				ProcessInitializeOnLoadAttributes (346ms)
@@ -522,6 +683,17 @@ Total: 4.940500 ms (FindLiveObjects: 0.224100 ms CreateObjectMapping: 0.111000 m
 			AwakeInstancesAfterBackupRestoration (19ms)
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+=======
+				BeforeProcessingInitializeOnLoad (98ms)
+				ProcessInitializeOnLoadAttributes (340ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+>>>>>>> Stashed changes
 Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2215 Unused Serialized files (Serialized files now loaded: 0)
@@ -530,6 +702,8 @@ System memory in use after: 97.9 MB.
 
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2672.
 Total: 5.292700 ms (FindLiveObjects: 0.210200 ms CreateObjectMapping: 0.125600 ms MarkObjects: 4.930100 ms  DeleteObjects: 0.025100 ms)
+<<<<<<< Updated upstream
+=======
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -658,6 +832,178 @@ Unloading 2215 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 97.8 MB.
 System memory in use after: 97.9 MB.
 
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2675.
+Total: 5.019000 ms (FindLiveObjects: 0.359100 ms CreateObjectMapping: 0.119900 ms MarkObjects: 4.515700 ms  DeleteObjects: 0.022600 ms)
+>>>>>>> Stashed changes
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+<<<<<<< Updated upstream
+  Time since last request: 61.744592 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1f4a04442164564ff0e286b87d93d4') in 0.049538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.594142 seconds.
+  path: Assets/Scenes/Ingrid.unity
+  artifactKey: Guid(97be229f553628e4caf1d4de4896baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ingrid.unity using Guid(97be229f553628e4caf1d4de4896baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa194e08a4c8867023eceb3a565f0729') in 0.013191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.622581 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac914a64d09c9fd053507d806b56dbc2') in 0.007963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.281386 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0fe388dab7ecbf1ae43f1f7bd48ed5a') in 0.007617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.660450 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd94797738c0d82cbb06f1f5ca4df96') in 0.010534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.499946 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39336dc669a785700c86fa083fbdb0c8') in 0.007960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.496359 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833bfa872c48db7484630a559f5a5caa') in 0.008044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.719017 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab90b02c855a3d196a99123e66c3486') in 0.009238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.817738 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ce04cabd074971490b3877cadb7e65') in 0.008503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.949767 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15fc42f07f966664e80fef6fa4a7b7b0') in 0.006652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.050583 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5d8215b9f94210c46181f1b3475f24') in 0.006743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.346728 seconds.
+  path: Assets/Scenes/Panel.prefab
+  artifactKey: Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Panel.prefab using Guid(1dfe8ffc5fce2b14db658107619a597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8256bfcfd89093513d7b9b9f8b6187e0') in 0.006674 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.766 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1767ms)
+		BeginReloadAssembly (230ms)
+=======
+  Time since last request: 48.440186 seconds.
+  path: Assets/Scenes/Ingrid.unity
+  artifactKey: Guid(97be229f553628e4caf1d4de4896baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Ingrid.unity using Guid(97be229f553628e4caf1d4de4896baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87590b66b419404d33ec592935dd189c') in 0.018996 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005777 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.810 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1811ms)
+		BeginReloadAssembly (208ms)
+>>>>>>> Stashed changes
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (1434ms)
+			LoadAssemblies (165ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (480ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (477ms)
+=======
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (1482ms)
+			LoadAssemblies (167ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (480ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (495ms)
+>>>>>>> Stashed changes
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+<<<<<<< Updated upstream
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (337ms)
+=======
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (354ms)
+>>>>>>> Stashed changes
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+<<<<<<< Updated upstream
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+>>>>>>> Stashed changes
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2215 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.8 MB.
+System memory in use after: 97.9 MB.
+
+<<<<<<< Updated upstream
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2675.
 Total: 5.019000 ms (FindLiveObjects: 0.359100 ms CreateObjectMapping: 0.119900 ms MarkObjects: 4.515700 ms  DeleteObjects: 0.022600 ms)
 >>>>>>> Stashed changes
@@ -1161,6 +1507,8 @@ Unloading 2215 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 97.8 MB.
 System memory in use after: 97.9 MB.
 
+=======
+>>>>>>> Stashed changes
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2678.
 Total: 4.961800 ms (FindLiveObjects: 0.239600 ms CreateObjectMapping: 0.114200 ms MarkObjects: 4.582800 ms  DeleteObjects: 0.023600 ms)
 
