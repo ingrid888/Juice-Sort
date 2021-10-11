@@ -6,18 +6,20 @@ using UnityEngine.UI;
 
 public class CriarCopos : MonoBehaviour
 {
-    [SerializeField] private GameObject copo;
+    [SerializeField] private CriarCores copo;
     [SerializeField] private HorizontalLayoutGroup tela;
 
     private void Start()
     {
         for (int i = 0; i < InformacoesGerais.numeroDeCopos; i++)
         {
-            Criar();
+            Criar(i < InformacoesGerais.numeroDeCopos -1, i);
         }
     }
-    private void Criar()
+    private void Criar(bool b, int i)
     {
-        Instantiate(copo, tela.transform);
+        var instanciaCopo =  Instantiate(copo, tela.transform);
+        instanciaCopo.Pintar = b;
+        instanciaCopo.Index = i;
     }
 }
